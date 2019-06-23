@@ -3,6 +3,7 @@
 .vscode/
 migrations/
 matplotlib-3.1.0-cp37-cp37m-win_amd64.whl
+*.svg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

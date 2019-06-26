@@ -4,6 +4,8 @@
 migrations/
 matplotlib-3.1.0-cp37-cp37m-win_amd64.whl
 *.svg
+*.csv
+*json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
